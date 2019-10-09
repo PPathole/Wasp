@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wasp</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="title_activity_home">Map</string>
+</resources>
